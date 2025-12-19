@@ -1,0 +1,8 @@
+config.py
+.env
+__pycache__/
+*.pyc
+chroma_store/
+temp_*.pdf
+*.sqlite3
+.streamlit/
